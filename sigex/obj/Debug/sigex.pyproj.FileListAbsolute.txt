@@ -1,0 +1,15 @@
+D:\Python34\projects\sigex\sigex\bin\Microsoft.PythonTools.WebRole.dll
+D:\Python34\projects\sigex\sigex\obj\Debug\attach_server.py
+D:\Python34\projects\sigex\sigex\obj\Debug\visualstudio_py_debugger.py
+D:\Python34\projects\sigex\sigex\obj\Debug\visualstudio_py_repl.py
+D:\Python34\projects\sigex\sigex\obj\Debug\visualstudio_py_util.py
+D:\Python34\projects\sigex\sigex\obj\Debug\__init__.py
+D:\Python34\projects\sigex\sigex\obj\Debug\__main__.py
+D:\Python34\projects\sigex\sigex\bin\AzureSetup.cfg
+D:\Python34\projects\sigex\sigex\bin\Microsoft.PythonTools.AzureSetup.exe
+D:\Python34\projects\sigex\sigex\bin\Microsoft.PythonTools.AzureSetup.exe.config
+D:\Python34\projects\sigex\sigex\bin\wfastcgi.py
+D:\Python34\projects\sigex\sigex\obj\Debug\deployment-updated-pyvenv.cfg
+D:\Python34\projects\sigex\sigex\ptvs_virtualenv_proxy.py
+D:\Python34\projects\sigex\sigex\obj\Debug\web.config
+D:\Python34\projects\sigex\sigex\obj\Debug\web.debug.config

@@ -1,0 +1,33 @@
+{% extends "app/layout.html" %}
+
+{% block content %}
+
+<h2>{{ title }}</h2>
+<div class="row">
+    <div class="col-md-8">
+            <form method="post" class="form-horizontal">
+                <div class="form-group">
+                {% csrf_token %}
+                <select name="activecompany" class="form-control">
+                {% for company in companies %}
+                    <option value="{{ company.company.id }}">{{ company.company.CompanyName }}</option>
+                {% endfor %}
+                </select>
+                </div>
+                <div class="form-group">
+                <button type="submit" class="btn btn-primary">Submit</button>
+                </div>
+            </form>
+    </div>
+
+</div>
+
+{% endblock %}
+
+
+{% block scripts %}
+
+    {% load staticfiles %}
+<script src="{% static 'app/scripts/jquery.validate.min.js' %}"></script>
+
+{% endblock %}
